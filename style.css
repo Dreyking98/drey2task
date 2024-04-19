@@ -1,0 +1,41 @@
+
+.learn{
+    border: 2px solid black; 
+    padding: 30px;
+    background-color: white;
+    border-radius: 1rem;
+    width: fit-content;
+    max-width: 500px;
+    box-shadow: 10px 10px 10px black;
+    margin-inline: auto;
+    display: block;
+}
+body{
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0px;
+}
+button{
+    background-color: hsl(47, 89%, 63%);
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 2em;
+    width: 7em;
+}
+ul{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    margin-left: 0px;
+     list-style-type: none;
+}
+img{
+    width: 100%;
+}
+.learn div p.structure {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 100%;
+}
